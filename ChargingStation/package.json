@@ -15,10 +15,11 @@
   ],
   "author": "Ravish Roshan",
   "license": "ISC",
-    "dependencies": {
+  "dependencies": {
     "@iota/converter": "^1.0.0-beta.30",
     "@iota/core": "^1.0.0-beta.30",
-    "express": "^4.17.1",
+    "express": "^4.17.1"
+  },
   "bugs": {
     "url": "https://github.com/ravishsunny/SmartCharging/issues"
   },
