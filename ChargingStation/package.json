@@ -1,0 +1,26 @@
+{
+  "name": "chargingstation",
+  "version": "1.0.0",
+  "description": "Charging station",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravishsunny/SmartCharging.git"
+  },
+  "keywords": [
+    "iota"
+  ],
+  "author": "Ravish Roshan",
+  "license": "ISC",
+    "dependencies": {
+    "@iota/converter": "^1.0.0-beta.30",
+    "@iota/core": "^1.0.0-beta.30",
+    "express": "^4.17.1",
+  "bugs": {
+    "url": "https://github.com/ravishsunny/SmartCharging/issues"
+  },
+  "homepage": "https://github.com/ravishsunny/SmartCharging#readme"
+}
